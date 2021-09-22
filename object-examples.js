@@ -7,7 +7,7 @@ var car = {
   odometer: 'a lot',
   crossCountryTrips: 'true',
   boughtNew: 'false',
-}
+};
 
 var animal = {
   type: 'dog',
@@ -15,4 +15,11 @@ var animal = {
   name: 'Oliver',
   isGoodBoy: 'true',
   deservesTreats: 'true'
-}
+};
+
+var customer = {
+  retailer: 'amazon',
+  itemPurchased: 'plant spray',
+  wasDelivered: 'true',
+  location: 'front porch'
+};
