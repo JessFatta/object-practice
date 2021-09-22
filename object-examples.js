@@ -5,6 +5,14 @@ var car = {
   trim: 'Limited',
   color: 'champange',
   odometer: 'a lot',
-  crossCountryTrips: 'yes',
-  boughtNew: 'no',
+  crossCountryTrips: 'true',
+  boughtNew: 'false',
+}
+
+var animal = {
+  type: 'dog',
+  age: '11',
+  name: 'Oliver',
+  isGoodBoy: 'true',
+  deservesTreats: 'true'
 }
